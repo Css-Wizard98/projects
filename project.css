@@ -162,7 +162,7 @@ a{
 
 .scroll{
     position: absolute;
-    bottom: 0;
+    bottom: 20px;
     display: flex;
     flex-direction: column;
     left: 50%;
