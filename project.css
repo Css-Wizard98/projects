@@ -9,8 +9,11 @@
 }
 section{
   height:100vh;
-  height:100svh;
   position:relative;
+}
+section .header{
+  height:100vh;
+  height:100svh;
 }
 section > div{
   height:100%;
